@@ -158,5 +158,4 @@ It does not fully protect against:
 - background knowledge attacks,
 - direct compromise of raw node data.
 
-Future work can extend the system with l-diversity or t-closeness.
->>>>>>> be6d4fb (Initial commit - distributed k-anonymity project)
+
